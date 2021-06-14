@@ -12,13 +12,7 @@ Here is a step-by-step guide to get the project started.
 
 clone the project:
 ```
-$ git clone 'git@github.com:TerryThreatt/moby.git'
-```
-
-navigate to the backend:
-
-```
-$ cd backend
+$ git clone 'git@github.com:TerryThreatt/moby_backend.git'
 ```
 
 load project dependencies:
