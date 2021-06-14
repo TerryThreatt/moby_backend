@@ -6,7 +6,6 @@ class CreateReviews < ActiveRecord::Migration[6.0]
         t.index ["book_id"], name: "index_reviews_on_book_id"
 
         t.timestamps
-        add_foreign_key "reviews", "books"
     end
   end
 end
